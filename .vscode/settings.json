@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "format": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "span": "c",
+        "regex": "c",
+        "task.h": "c",
+        "freertosconfig.h": "c",
+        "sdkconfig.h": "c"
+    },
+    "idf.pythonInstallPath": "/usr/bin/python",
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyACM0"
+}
